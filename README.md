@@ -6,4 +6,4 @@ not sure what to add here so uhhh
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kopamed&layout=compact&theme=radical" alt="here neither? wtf">
 oh and i use arch btw<br>
 and nVim<br>
-<s>linux good windows bad</s>
+<b>linux good windows bad</b>

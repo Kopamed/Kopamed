@@ -7,3 +7,5 @@ not sure what to add here so uhhh
 oh and i use arch btw<br>
 and nVim<br>
 <b>linux good windows bad</b>
+
+<!-- home-made memes be like  https://imgflip.com/i/54c7r9 lmao -->

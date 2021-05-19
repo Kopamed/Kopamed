@@ -1,5 +1,5 @@
 # welcome to my bad profile readme
-<a href="kopamed.github.io"><button type="button">Visit my website</button></a>
+<a href="https://kopamed.github.io"><button type="button">Visit my website</button></a> <br>
 <img src="https://komarev.com/ghpvc/?username=Kopamed&color=0CCCCC" alt="ur wifi is bad">
 ^i bet you mosty of these were me reloading the page<br>
 not sure what to add here so uhhh

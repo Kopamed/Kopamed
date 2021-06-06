@@ -7,7 +7,7 @@ not sure what to add here so uhhh<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kopamed&layout=compact&theme=radical" alt="here neither? wtf">
 oh and i use arch btw<br>
 and nVim<br>
-<str>gentuwu is my next goal</str>
+<str>gentuwu is my next goal</str><br>
 <b>linux good windows bad</b>
 
 <!-- home-made memes be like https://imgflip.com/i/54c7r9 lmao -->

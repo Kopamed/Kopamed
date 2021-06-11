@@ -3,8 +3,8 @@ https://kopamed.cf <br>
 <img src="https://komarev.com/ghpvc/?username=Kopamed&color=0CCCCC" alt="ur wifi is bad"><br>
 yuh<br>
 not sure what to add here so uhhh<br>
-<img src="https://github-readme-stats.vercel.app/api?username=Kopamed&show_icons=true&theme=radical" alt="when the imposter is sus">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kopamed&layout=compact&theme=radical" alt="here neither? wtf">
+<img src="https://github-readme-stats.vercel.app/api?username=Kopamed&show_icons=true&theme=radical" alt="when the imposter is sus"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kopamed&layout=compact&theme=radical" alt="here neither? wtf"><br>
 oh and i use arch btw<br>
 and nVim<br>
 <str>gentuwu is my next goal</str><br>

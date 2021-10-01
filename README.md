@@ -12,5 +12,6 @@ oh and i use arch btw<br>
 and nVim<br>
 <d>gentuwu is my next goal</d><br>
 <b>linux good windows bad</b>
-
+<br>
+send help my computer science teacher gives me brain damage every single lesson help
 <!-- home-made memes be like https://imgflip.com/i/54c7r9 lmao -->

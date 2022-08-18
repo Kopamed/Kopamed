@@ -1,4 +1,4 @@
-# java/python/js/php dev
+# java / python / js / php dev
 <img src="https://komarev.com/ghpvc/?username=Kopamed&color=0CCCCC" alt="header"><br>
 <!--https://kopamed.cf <br>-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kopamed&layout=compact&theme=radical" alt="here neither? wtf"><br>

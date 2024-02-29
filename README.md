@@ -1,5 +1,5 @@
-<h2 align="center">👋 Hi there, I'm Konstantin</h2>
-<p align="center">A 17-year-old passionate Full-Stack Developer specializing in Java, Python, JavaScript (JS), TypeScript (TS), React, and PHP. I have a fascination with AI and am always eager to explore its infinite possibilities.</p>
+<h2 align="center">Sup</h2>
+<p align="center">I make cool stuff to solve my pains and problems because I am too lazy to actually face them.</p>
 
 ---
 
@@ -17,22 +17,31 @@
 
 ---
 
-<!-- ### 🌐 Portfolio -->
-<!--Uncomment when you have a live portfolio link-->
-<!--[Check out my portfolio here](https://kopamed.cf)-->
+### 🛠️ Skills
+Below is a summary of my skills and the duration of my experience with them:
 
-### 🌱 Hobbies & Interests
-- Building things to make everyday life easier with AI
-- Gym
-- Rock Climbing
-- UI/UX Design
+- **Python** - from June 2017: Just everything and anything
+- **JavaScript (JS)** - since May 2017: Making stupid browser extensions and plugins
+- **HTML + CSS** - since May 2017: I have never made a good looking web page in pure HTML and CSS
+- **jQuery** - from August 2017: Very useful for ugly half-finished websites which I forget about after 2 days
+- **TensorFlow** - since February 2022: Idk when in doubt just slap your problem with some ML
+- **Java** - since May 2021: Minecraft cheats... but also general stuff because I really love java and the "everything is an object" ideology
+- **React** - from September 2023: React is react
+- **Tailwind** - since September 2023: Made frontend go from torture to therapy
+- **Next.js** - since November 2023: Can't stand svelte fanboys
+- **TypeScript (TS)** - from September 2023: Idk it just looks better than js and it reminds me of java
 
-<!-- ### 📞 Connect with me:-->
-<!-- Add your social links here, like LinkedIn, Twitter, etc. -->
-<!-- - LinkedIn: [link]
-- Twitter: [link]
-- Email: [your.email@example.com] -->
+I've also worked with a load of other languages frameworks and libraries... so many that I can't remember half of them but I have forgotten most of them because I couldn't find any ongoing applications for them.
 
 ---
 
-<h4 align="center">Thank you for stopping by! 😄</h4>
+### 🌱 Hobbies & Interests
+- Rock climbing
+- Mountain biking
+- Urban exploration (Urbexing)
+- Frontend (can't believe I am saying this)
+- making stuff to destory the IB because I hate IB
+
+---
+
+<h4 align="center">Ok that's it.</h4>

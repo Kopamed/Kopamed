@@ -30,6 +30,7 @@ Below is a summary of my skills and the duration of my experience with them:
 - **Tailwind** - since September 2023: Made frontend go from torture to therapy
 - **Next.js** - since November 2023: Can't stand svelte fanboys
 - **TypeScript (TS)** - from September 2023: Idk it just looks better than js and it reminds me of java
+- **React Native + Expo** - from March 2024: Roses are red, violets are blue, I should study for exams, but there's a new SDK to review.
 
 I've also worked with a load of other languages frameworks and libraries... so many that I can't remember half of them... I have forgotten them because I couldn't find any ongoing applications for them.
 

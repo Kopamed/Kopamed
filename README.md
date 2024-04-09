@@ -1,5 +1,5 @@
 <h2 align="center">Sup</h2>
-<p align="center">I make cool stuff to solve my pains and problems because I am too lazy to actually face them.</p>
+<p align="center">I make cool stuff to solve my pains and problems.</p>
 
 ---
 
@@ -32,6 +32,7 @@ Below is a summary of my skills and the duration of my experience with them:
 - **Next.js** - since November 2023: Can't stand svelte fanboys
 - **TypeScript (TS)** - from September 2023: Idk it just looks better than js and it reminds me of java
 - **React Native + Expo** - from March 2024: Roses are red, violets are blue, I should study for exams, but there's a new SDK to review.
+- **JAX + FLAX + OPTAX** - from April 2024: I want to go a level deeper than tensorflow.
 
 I've also worked with a load of other languages frameworks and libraries... so many that I can't remember half of them... I have forgotten them because I couldn't find any ongoing applications for them.
 

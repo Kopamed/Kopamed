@@ -34,7 +34,7 @@ Below is a summary of my skills and the duration of my experience with them:
 - **React Native + Expo** - from March 2024: Roses are red, violets are blue, I should study for exams, but there's a new SDK to review.
 - **JAX + FLAX + OPTAX** - from April 2024: I want to go a level deeper than tensorflow.
 
-I've also worked with a load of other languages frameworks and libraries... so many that I can't remember half of them... I have forgotten them because I couldn't find any ongoing applications for them.
+I've also worked with a load of other languages, frameworks and libraries... so many that I can't remember half of them... I have forgotten them because I couldn't find any ongoing applications for them.
 
 ---
 

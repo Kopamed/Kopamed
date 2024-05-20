@@ -25,7 +25,7 @@ Below is a summary of my skills and the duration of my experience with them:
 - **HTML + CSS** - since May 2017: I have never made a good looking web page in pure HTML and CSS
 - **jQuery** - from August 2017: Very useful for ugly half-finished websites which I forget about after 2 days
 - **Java** - since May 2021: Minecraft mods... but also general stuff because I really love java and the "everything is an object" ideology
-- **Java deobfuscation** from July 2021 to May 2022: 0xCAFEBABE
+- **Java deobfuscation and bytecode** from August 2021 to May 2022: 0xCAFEBABE
 - **TensorFlow** - since February 2022: Idk when in doubt just slap your problem with some ML
 - **React** - from September 2023: React is react
 - **Tailwind** - since September 2023: Made frontend go from torture to therapy

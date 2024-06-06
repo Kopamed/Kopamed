@@ -33,6 +33,7 @@ Below is a summary of my skills and the duration of my experience with them:
 - **TypeScript (TS)** - from September 2023: Idk it just looks better than js and it reminds me of java
 - **React Native + Expo** - from March 2024: Roses are red, violets are blue, I should study for exams, but there's a new SDK to review.
 - **JAX + FLAX + OPTAX** - from April 2024: I want to go a level deeper than tensorflow.
+- **Supabase** - from June 2024: How is this the only decent BaaS that provides templates for react native that actually work and don't require an hour of debugging to get it half working???
 
 I've also worked with a load of other languages, frameworks and libraries... so many that I can't remember half of them... I have forgotten them because I couldn't find any ongoing applications for them.
 
@@ -41,7 +42,7 @@ I've also worked with a load of other languages, frameworks and libraries... so 
 ### 🌱 Hobbies & Interests
 - Rock climbing
 - Mountain biking
-- Urban exploration (Urbexing)
+- Urban exploration
 - Frontend (can't believe I am saying this)
 - NOT 1720216800... No way will this turn out well
 ---

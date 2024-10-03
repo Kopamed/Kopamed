@@ -1,16 +1,7 @@
-<h2 align="center">Hey</h2>
-<p align="center">☁️</p>
-
----
-
-<h3 align="center">📈 My GitHub Stats:</h3>
+<h2 align="center">Hey ☁️</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kopamed&color=0CCCCC" alt="Visitor Count">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kopamed&layout=compact&theme=radical" alt="Top Languages">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kopamed&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kopamed" alt="Streak Stats">
 </p>

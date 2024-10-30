@@ -30,8 +30,9 @@ Below is a summary of my skills and the duration of my experience with them:
 - **Docker** - from August 2024: Used to be a hater but it is growing on me.
 - **AWS** - from August 2024: Addicted to the cloud
 - **Go** - from September 2024: It is fun.
-- **Rust** - from September 2024: Doing too much to minimize serverless cold starts 💀+
-- **Terraform** - from October2024: I do not enjoy terraform.
+- **Rust** - from September 2024: Doing too much to minimize serverless cold starts 💀
+- **Processing** - from October 2024: Overkilling [university homework](https://github.com/Kopamed/processing-3d-world-render) assignments
+- **Terraform** - from October 2024: I do not enjoy terraform.
 
 I've also worked with a load of other languages, frameworks and libraries... so many that I can't remember half of them... I have forgotten them because I couldn't find any ongoing applications for them.
 

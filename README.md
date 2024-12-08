@@ -18,6 +18,7 @@ Below is a summary of my skills and the duration of my experience with them:
 - **jQuery** - from August 2017: Didn't make it into my stack
 - **Java** - since May 2021: Minecraft mods... but also many other projects because I really love java and the "everything is an object" ideology
 - **Java deobfuscation and bytecode** from August 2021 to May 2022: 0xCAFEBABE
+- **Linux** - from October 2020: I use arch btw.
 - **TensorFlow** - since February 2022: And so it begins
 - **React** - from September 2023: React is react
 - **Tailwind** - since September 2023: Made frontend go from torture to therapy
@@ -33,8 +34,10 @@ Below is a summary of my skills and the duration of my experience with them:
 - **Rust** - from September 2024: Doing too much to minimize serverless cold starts 💀
 - **Processing** - from October 2024: Overkilling [university homework](https://github.com/Kopamed/processing-3d-world-render) assignments
 - **Terraform** - from October 2024: I do not enjoy terraform.
+- **Gymnasium** - from November 2024: To leverage libraries like StableBaselines.
+- **StableBaselines** - from November 2024: To implement some research papers.
 
-I've also worked with a load of other languages, frameworks and libraries... so many that I can't remember half of them... I have forgotten them because I couldn't find any ongoing applications for them.
+I've also worked with a load of other languages, frameworks and libraries... so many that I can't remember half of them. I have forgotten them because I couldn't find any ongoing applications for them.
 
 ---
 ### 🌱 Hobbies & Interests
@@ -43,6 +46,7 @@ I've also worked with a load of other languages, frameworks and libraries... so 
 - UI Design
 - Hiking
 - Calisthentics
+- Crypto
 ---
 
 <h4 align="center">Thanks. 👋</h4>

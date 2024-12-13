@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kopamed&color=0CCCCC" alt="Visitor Count">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kopamed" alt="Streak Stats">
+  <img src="https://streak-stats.demolab.com?user=Kopamed&theme=dark" alt="GitHub Streak" />
   <!--New stat needed-->
 </p>
 

@@ -32,7 +32,7 @@ Below is a summary of my skills and the duration of my experience with them:
 - **AWS** - from August 2024: Addicted to the cloud
 - **Go** - from September 2024: It is fun.
 - **Rust** - from September 2024: Doing too much to minimize serverless cold starts 💀
-- **Processing** - from October 2024: Overkilling [university homework](https://github.com/Kopamed/processing-3d-world-render) assignments
+- **Processing** - from October 2024: Overkilling university homework assignments
 - **Terraform** - from October 2024: I do not enjoy terraform.
 - **Gymnasium** - from November 2024: To leverage libraries like StableBaselines.
 - **StableBaselines** - from November 2024: To implement some research papers.

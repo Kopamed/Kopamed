@@ -16,6 +16,7 @@ Below is a summary of my skills and the duration of my experience with them:
 - **JavaScript (JS)** - since May 2017: Browser extensions and plugins
 - **HTML + CSS** - since May 2017: I have never made a good looking web page in pure HTML and CSS
 - **jQuery** - from August 2017: Didn't make it into my stack
+- **discord.py** - from September 2018: Made so many cool discord bots
 - **Java** - since May 2021: Minecraft mods... but also many other projects because I really love java and the "everything is an object" ideology
 - **Java deobfuscation and bytecode** from August 2021 to May 2022: 0xCAFEBABE
 - **Linux** - from October 2020: I use arch btw.
@@ -47,6 +48,10 @@ I've also worked with a load of other languages, frameworks and libraries... so 
 - Hiking
 - Calisthentics
 - Crypto
+- Designing gambling games
 ---
+### 2025 Goals
+- [ ] 2k+ commits throughout the year
+- [ ] New side project
 
 <h4 align="center">Thanks. 👋</h4>

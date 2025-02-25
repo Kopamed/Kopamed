@@ -22,6 +22,7 @@ Below is a summary of my skills and the duration of my experience with them:
 - **Java** - since May 2021: Minecraft mods... but also many other projects because I really love java and the "everything is an object" ideology
 - **Java deobfuscation and bytecode** from August 2021 to May 2022: 0xCAFEBABE
 - **TensorFlow** - since February 2022: And so it begins
+- **MoviePy** - since March 2023: Wow. Жадность фраера сгубила. You live you learn.
 - **React** - from September 2023: React is react
 - **Tailwind** - since September 2023: Made frontend go from torture to therapy
 - **Next.js** - since November 2023: Can't stand svelte fanboys

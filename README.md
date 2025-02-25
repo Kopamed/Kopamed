@@ -38,7 +38,8 @@ Below is a summary of my skills and the duration of my experience with them:
 - **Terraform** - from October 2024: I do not enjoy terraform.
 - **Gymnasium** - from November 2024: To leverage libraries like StableBaselines.
 - **StableBaselines** - from November 2024: To implement some research papers.
-- **NestJS** - from Feb 2025: Opiniated frameworks make for maintainable team projects.
+- **FastAPI** - from January 2025: Serving some ML services
+- **NestJS** - from February 2025: Opiniated frameworks make for maintainable team projects.
 
 I've also worked with a load of other languages, frameworks and libraries... so many that I can't remember half of them. I have forgotten them because I couldn't find any ongoing applications for them.
 

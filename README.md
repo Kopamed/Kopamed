@@ -41,6 +41,7 @@ Below is a summary of my skills and the duration of my experience with them:
 - **StableBaselines** - from November 2024: To implement some research papers.
 - **FastAPI** - from January 2025: Serving some ML services
 - **NestJS** - from February 2025: Opiniated frameworks make for maintainable team projects.
+- **NGINX** - from March 2025: Hosting servers and frontend on my own machines 🫡
 
 I've also worked with a load of other languages, frameworks and libraries... so many that I can't remember half of them. I have forgotten them because I couldn't find any ongoing applications for them.
 

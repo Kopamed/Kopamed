@@ -42,6 +42,7 @@ Below is a summary of my skills and the duration of my experience with them:
 - **FastAPI** - from January 2025: Serving some ML services
 - **NestJS** - from February 2025: Opiniated frameworks make for maintainable team projects.
 - **NGINX** - from March 2025: Hosting servers and frontend on my own machines 🫡
+- **ffmpeg** - in depth from May 2025: Never realised before how delicate videos are
 
 I've also worked with a load of other languages, frameworks and libraries... so many that I can't remember half of them. I have forgotten them because I couldn't find any ongoing applications for them.
 

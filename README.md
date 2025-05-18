@@ -58,7 +58,7 @@ I've also worked with a load of other languages, frameworks and libraries... so 
 ---
 ### 2025 Goals
 - [ ] 2k+ commits throughout the year
-- [ ] New side project
+- [x] New side project
 - [ ] New https://konstantin.one design
 
 <h4 align="center">Thanks. 👋</h4>

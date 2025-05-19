@@ -17,6 +17,7 @@ Below is a summary of my skills and the duration of my experience with them:
 - **HTML + CSS** - since May 2017: I have never made a good looking web page in pure HTML and CSS
 - **jQuery** - from August 2017: Didn't make it into my stack
 - **discord.py** - from September 2018: Made so many cool discord bots
+- **git** - from January 2019: #1 content creator on the hub
 - **Linux** - from October 2020: I use arch btw.
 - **Bash** - from December 2020: Got tired of typing out commands for repetitive tasks.
 - **Java** - since May 2021: Minecraft mods... but also many other projects because I really love java and the "everything is an object" ideology

@@ -34,6 +34,7 @@ Below is a summary of my skills and the duration of my experience with them:
 - **PyTorch** - from July 2024: Why not?
 - **Docker** - from August 2024: Used to be a hater but it is growing on me.
 - **AWS** - from August 2024: Addicted to the cloud
+- **RabbitMQ** - from September 2024: I <3 microservices
 - **Go** - from September 2024: It is fun.
 - **Rust** - from September 2024: Doing too much to minimize serverless cold starts 💀
 - **Processing** - from October 2024: Overkilling university homework assignments
@@ -44,6 +45,7 @@ Below is a summary of my skills and the duration of my experience with them:
 - **NestJS** - from February 2025: Opiniated frameworks make for maintainable team projects.
 - **NGINX** - from March 2025: Hosting servers and frontend on my own machines 🫡
 - **ffmpeg** - in depth from May 2025: Never realised before how delicate videos are
+- **WebSockets** - from May 2025: I don't know how I managed to avoid them for 8 years
 
 I've also worked with a load of other languages, frameworks and libraries... so many that I can't remember half of them. I have forgotten them because I couldn't find any ongoing applications for them.
 

@@ -46,6 +46,8 @@ Below is a summary of my skills and the duration of my experience with them:
 - **NGINX** - from March 2025: Hosting servers and frontend on my own machines 🫡
 - **ffmpeg** - in depth from May 2025: Never realised before how delicate videos are
 - **WebSockets** - from May 2025: I don't know how I managed to avoid them for 8 years
+- **Solidity** - from June 2025: Nothing like making smart contracts for betting
+- **Neovim** - from June 2025: I give in
 
 I've also worked with a load of other languages, frameworks and libraries... so many that I can't remember half of them. I have forgotten them because I couldn't find any ongoing applications for them.
 

@@ -49,6 +49,7 @@ Below is a summary of my skills and the duration of my experience with them:
 - **Solidity** - from June 2025: Nothing like making smart contracts for betting
 - **Neovim** - from June 2025: I give in
 - **Glorious Engrammer** - from June 2025: Glove80 warmup
+- **d113f1c3f9ed8019288f4e8ddecfb8ec** - from July 2025: Wanna recreate the ones I like
 
 I've also worked with a load of other languages, frameworks and libraries... so many that I can't remember half of them. I have forgotten them because I couldn't find any ongoing applications for them.
 

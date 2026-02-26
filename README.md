@@ -50,6 +50,7 @@ Below is a summary of my skills and the duration of my experience with them:
 - **Neovim** - from June 2025: I give in
 - **Glorious Engrammer** - from June 2025: Glove80 warmup
 - **d113f1c3f9ed8019288f4e8ddecfb8ec** - from July 2025: Wanna recreate the ones I like
+- **ClaudeCode** - from September 2025: Maybe programming was about the friends we made along the way...
 - **IoT** - from October 2025: Wanna mod my washing machine.
 
 I've also worked with a load of other languages, frameworks and libraries... so many that I can't remember half of them. I have forgotten them because I couldn't find any ongoing applications for them.
@@ -58,16 +59,44 @@ I've also worked with a load of other languages, frameworks and libraries... so 
 ### 🌱 Hobbies & Interests
 - Rock climbing
 - Mountain biking
-- UI Design
 - Hiking
-- Calisthentics
 - Crypto
-- Designing gambling games
+- Photography
 ---
-### 2025 Goals
-- [ ] 2k+ commits throughout the year
+### Goals
+<details>
+<summary>2025</summary>
+
+> Content in quotes are comments from post 2025
+
+- [x] 2k+ commits throughout the year
+  > 2026 will be insane
+
 - [x] New side project
+
+- [ ] 100k views/day
+  > ![views](./views-stats.png)
+  >
+  > Was one good decision away from the goal...
+  >
+  > Either way, 50x growth from May -> Nov is decent.
+  >
+  > Fell short due to repeated short-term decision mistakes.
+  >
+  > Otherwise medium term decisions seem on point.
+
 - [ ] New https://konstantin.one design
-- [ ] 100k views day
+  > Didn't have any great inspiring ideas about this
+
+</details>
+
+<details open>
+<summary>2026</summary>
+
+- [ ] 250k watch hours/day combined
+- [ ] 10k commits throughout the year (Thanks ClaudeCode)
+- [ ] New https://konstantin.one design (I'll actually make it this year)
+
+</details>
 
 <h4 align="center">Thanks. 👋</h4>
